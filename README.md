@@ -19,3 +19,44 @@ The core objective of this project is to:
 - Practice SQL querying on a healthcare database.
 - Derive insights from patient and admission data.
 - Perform data cleaning and transformation where necessary.
+
+
+# Problem Statements
+
+This project covers 35 SQL tasks across different difficulty levels. Below are a few examples:
+
+- Retrieve male patient names and gender.
+- List patients with no allergies.
+- Filter patients by first names starting with ‘C’.
+- Extract patients within a weight range.
+- Replace NULL allergy values with 'NKA'.
+- Concatenate full names.
+- Join patient data with provinces for full province names.
+- Count number of patients born in 2010.
+- Find the tallest patient.
+- Filter patients based on specific IDs.
+- Count total admissions.
+- Admissions with same-day discharge.
+- Count admissions for a specific patient.
+- Unique cities in province ‘NS’.
+- Patients with height > 160 and weight > 70.
+- Distinct patient birth years.
+- Unique first names (occur only once).
+- Names that start and end with ‘s’ and are ≥6 characters.
+- Patients diagnosed with ‘Dementia’.
+- Order names by length and alphabetically.
+- Gender count in a single row.
+- Repeat of gender count (intentional duplicate).
+- Patients admitted multiple times for the same diagnosis.
+- Most common patient cities.
+- List all people with role as Patient or Doctor.
+- Allergies ordered by popularity.
+- Patients born in 1970s.
+- Display full names in format LASTNAME,firstname.
+- Provinces where total height ≥ 7000.
+- Weight range for ‘Maroni’ patients.
+- Admissions count by day of month.
+- Group patients into weight groups.
+- Compute BMI and identify obesity.
+- Patients diagnosed with ‘Epilepsy’ under Dr. Lisa.
+- Generate patient passwords based on ID, name length, and birth year.
