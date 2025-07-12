@@ -9,6 +9,8 @@ This project involves comprehensive data exploration and SQL querying on a medic
 # Dataset Used
 
 - File: 1. [admission.csv](https://github.com/Praneeth2003-oss/Medical-Data-History/blob/db5ad7db0c5877312ed2f74df706fd7f2292515a/admission.csv)
+  2. [doctors.csv](https://github.com/Praneeth2003-oss/Medical-Data-History/blob/696bfed2c4a3c1ebee96331cfa503c593e3824f8/doctors.csv)
+  
 - Description: This dataset includes patient demographics, medical admissions, diagnoses, allergies, doctor information, and other health-related attributes.
 
 
