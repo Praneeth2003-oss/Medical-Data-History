@@ -10,3 +10,11 @@ This project involves comprehensive data exploration and SQL querying on a medic
 
 - File: [combined_Medical_data_history.csv](./combined_Medical_data_history.csv)
 - Description: This dataset includes patient demographics, medical admissions, diagnoses, allergies, doctor information, and other health-related attributes.
+
+
+# Objectives
+
+The core objective of this project is to:
+	- Practice SQL querying on a healthcare database.
+	- Derive insights from patient and admission data.
+	- Perform data cleaning and transformation where necessary.
