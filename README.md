@@ -61,4 +61,4 @@ This project covers 35 SQL tasks across different difficulty levels. Below are a
 - Patients diagnosed with ‘Epilepsy’ under Dr. Lisa.
 - Generate patient passwords based on ID, name length, and birth year.
 
-Refer to [SQL Questions.pdf](./SQL Questions.pdf)
+Refer to [SQL Questions.pdf](https://github.com/Praneeth2003-oss/Medical-Data-History/blob/e16ab37d26e782488333952d4726574aa600ab58/SQL%20Questions.pdf)
