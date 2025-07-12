@@ -60,3 +60,5 @@ This project covers 35 SQL tasks across different difficulty levels. Below are a
 - Compute BMI and identify obesity.
 - Patients diagnosed with ‘Epilepsy’ under Dr. Lisa.
 - Generate patient passwords based on ID, name length, and birth year.
+
+Refer to [combined_Medical_data_history.csv](./combined_Medical_data_history.csv)
