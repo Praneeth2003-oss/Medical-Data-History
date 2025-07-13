@@ -67,3 +67,20 @@ This project covers 35 SQL tasks across different difficulty levels. Below are a
 - Generate patient passwords based on ID, name length, and birth year.
 
 Refer to [SQL Questions.pdf](https://github.com/Praneeth2003-oss/Medical-Data-History/blob/e16ab37d26e782488333952d4726574aa600ab58/SQL%20Questions.pdf)
+
+
+# Learning Outcomes
+
+By completing this project, you will:
+- Strengthen your ability to handle real-world datasets using SQL.
+- Apply filtering, grouping, sorting, joining, and updating operations.
+- Learn how to derive business logic from structured healthcare records.
+
+
+# Use Cases
+
+- Medical database auditing.
+- Patient admission trend analysis.
+- Doctor workload tracking.
+- Diagnosis frequency reporting.
+- Public health data insights.
